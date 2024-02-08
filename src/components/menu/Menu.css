@@ -1,0 +1,7 @@
+.containerMenu {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    background-color: #1c1b22;
+}
