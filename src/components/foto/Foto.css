@@ -1,0 +1,20 @@
+.containerImg {
+    position: relative;
+    width: 350px;
+    height: 350px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.Img {
+    width: 250px;
+    position: absolute;
+    z-index: 1;
+    opacity: 1;
+    border-radius: 50%;
+}
